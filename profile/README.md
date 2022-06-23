@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+This Organization is a predetermined Web Development Specialists
+
+
+Checkout our first project a web-streaming Platform for Gamers → [Gamify](https://github.com/Aristeia-ynov/gamify.git)
+
 <!--
 
 **Here are some ideas to get you started:**
