@@ -6,7 +6,8 @@ This Organization is a predetermined Web Development Specialists
 Checkout our first project a web-streaming Platform for Gamers → [Gamify](https://github.com/Aristeia-ynov/gamify.git)
 
 
-<p style="center">Streaming is a way to send and receive data continuously over a network./n
+<p style="center">Streaming is a way to send and receive data continuously over a network.
+  <br /> 
 It allows content to start playing while the rest of the data is still in transit.
 <p>
 
