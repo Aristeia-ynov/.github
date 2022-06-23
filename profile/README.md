@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-This Organization is a predetermined Web Development Specialists
+<p align="center">This Organization is a predetermined Web Development Specialists
+</p>
 
-
-Checkout our first project a web-streaming Platform for Gamers → [Gamify](https://github.com/Aristeia-ynov/gamify.git)
-
+<p align="center"> Checkout our first project a web-streaming Platform for Gamers → [Gamify](https://github.com/Aristeia-ynov/gamify.git)
+</p>
 
 <p align="center">Streaming is a way to send and receive data continuously over a network.
   <br /> 
